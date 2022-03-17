@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Josh Ferrell
-- 🐢 I'm a Site Reliability Engineer at VMware
+- 🐢 I'm a Software Engineer at VMware
 - 📘 I'm actively contributing to Cluster API Provider AWS
 - 🔌 I'd like to work with others on Kubernetes and Kubernete's SIG projects
 - 📢 I'm available on Kubernetes Slack @josh-ferrell
