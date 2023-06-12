@@ -4,4 +4,4 @@
 - 📢 I'm available on Kubernetes Slack [@josh-ferrell](https://kubernetes.slack.com/team/U03TCUREV7T)
 
 ### Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=josh-ferrell&count_private=true&show_icons=true&theme=github_dark)
+![josh-ferrell's Stats](https://github-readme-stats.vercel.app/api?username=josh-ferrell&theme=github_dark&show_icons=true&hide_border=true&count_private=true)
